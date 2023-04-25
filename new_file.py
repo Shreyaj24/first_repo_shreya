@@ -1,1 +1,1 @@
-x = 'Hey I am new'
+my_text = "hey Ismael"
